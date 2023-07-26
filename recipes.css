@@ -1,0 +1,15 @@
+.container {
+    background-color: pink;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    background-color: orange;
+    font-size:18px;
+}
+
+.header {
+    background-color: red;
+}
