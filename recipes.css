@@ -40,9 +40,7 @@ button {
     color:white;
 }
 
-.button2nd {
-    background-color: yellow;
-}
+
 
 .adjust-font-button {
     font-size: 28px;
@@ -57,4 +55,14 @@ button {
 .avatar.distorted {
     width: 200px;
     height: 400px;
+}
+
+.background-color-yellow {
+    background-color:yellow;
+}
+
+.styled {
+    color:red;
+    font-size: 20px;
+    text-align: center;
 }
