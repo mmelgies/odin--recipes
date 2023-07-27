@@ -16,7 +16,7 @@ button {
 
 .odd {
     background-color: #FF6666;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second {
@@ -24,12 +24,37 @@ button {
     font-size: 36px;
 }
 
-#third {
-    font-size:24px;
-}
+
 
 #fourth {
     background-color: lightgreen;
-    font-size:24px;
+    
     font-weight: bold;
+}
+.adjust-font-size {
+    font-size:24px;
+}
+
+.button1st {
+    background-color: black;
+    color:white;
+}
+
+.button2nd {
+    background-color: yellow;
+}
+
+.adjust-font-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
