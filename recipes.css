@@ -66,3 +66,9 @@ button {
     font-size: 20px;
     text-align: center;
 }
+
+.block {
+    display: block;
+    margin: auto;
+  
+}
