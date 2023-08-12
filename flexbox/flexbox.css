@@ -114,3 +114,64 @@
 .signup {
     margin-left: auto;
   }
+
+.nav-container > div {
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: #ffeead;
+}
+
+html, body {
+   box-sizing: border-box;
+    align-items: center;
+    justify-self: center;
+}
+
+.nav-container > div:nth-child(1) {
+    background-color: #96ceb4;
+}
+
+.nav-container > div:nth-child(2) {
+    background-color: #ff6f69;
+}
+
+.nav-container > div:nth-child(3) {
+    background-color: #88d8b0;
+}
+
+.nav-container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;
+    height: 100%;*/
+    
+  }
+
+  /*.logout {
+    align-self: flex-start;
+  }*/
+
+  /*.search {
+    margin-left: auto;
+  }*/
+
+  .home,
+  .logout {
+      /*margin-right: auto;*/
+      flex: 1; 
+    }
+  
+
+  /*.nav-container > div {
+    flex:1;
+    /*width: 33.3333%;*/
+ /* }*/
+
+  /*.nav-container > .home,
+  .nav-container > .logout  {
+    flex:2;
+  }*/
+
+  
