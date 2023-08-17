@@ -115,7 +115,7 @@
     margin-left: auto;
   }
 
-.nav-container > div {
+  .nav-container > div {
     padding: 10px;
     text-align: center;
     font-size: 2em;
@@ -174,4 +174,7 @@ html, body {
     flex:2;
   }*/
 
-  
+a {
+    text-decoration: none;
+    color: #ffeead;
+}
