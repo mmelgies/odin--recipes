@@ -35,7 +35,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  border:solid 1px;
 }
 
 .close-button {
@@ -49,9 +48,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #eee;
   padding: 0;
-  
+  border: 1px solid #eee;
+  padding-left: 150px;
 }
 
 button {
@@ -74,25 +73,18 @@ button.cancel {
 
 .text {
     display: flex;
-    text-align: left;
     padding-left: 60px;
-   padding-bottom: 10px;
+    padding-bottom: 20px;
     
 }
 
 .top {
-    display: flex;
-    justify-content: flex-start;
-    border:solid 1px;
+  display: flex;
 }
 
 .header {
     display: flex;
-    padding-right: 200px;
     padding-left: 18px;
-    border:solid 1px;
-    text-align: left;
-    padding-bottom: 10px;
 }
 
 .footer {
