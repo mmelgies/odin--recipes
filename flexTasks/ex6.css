@@ -44,14 +44,13 @@ ul {
     
 }
 
-.header {
+.header,
+.footer {
     display: flex;
   justify-content: space-between;
 }
 
 .footer {
-    display: flex;
-    justify-content: space-between;
     align-items: flex-end;
     margin-top: auto;
     
