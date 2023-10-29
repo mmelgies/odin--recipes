@@ -1,0 +1,74 @@
+.container {
+    background-color: pink;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    background-color: orange;
+    font-size:18px;
+}
+
+.header {
+    background-color: red;
+}
+
+.odd {
+    background-color: #FF6666;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color:blue;
+    font-size: 36px;
+}
+
+
+
+#fourth {
+    background-color: lightgreen;
+    
+    font-weight: bold;
+}
+.adjust-font-size {
+    font-size:24px;
+}
+
+.button1st {
+    background-color: black;
+    color:white;
+}
+
+
+
+.adjust-font-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+.background-color-yellow {
+    background-color:yellow;
+}
+
+.styled {
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.block {
+    display: block;
+    margin: auto;
+  
+}
